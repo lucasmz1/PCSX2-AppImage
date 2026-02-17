@@ -13,6 +13,8 @@ echo "---------------------------------------------------------------"
 get-debloated-pkgs --add-common --prefer-nano
 
 # Comment this out if you need an AUR package
+make-aur-package plutosvg
+make-aur-package plutovg
 make-aur-package pcsx2-git
 
 # If the application needs to be manually built that has to be done down here
