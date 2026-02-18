@@ -15,7 +15,7 @@ export DEPLOY_OPENGL=1
 
 
 # Deploy dependencies
-quick-sharun /usr/bin/pcsx2 /usr/lib/pcsx2 /usr/lib/libshaderc* /usr/share/pcsx2/
+quick-sharun /usr/bin/pcsx2 /usr/lib/libshaderc* /usr/share/pcsx2/
 
 # Additional changes can be done in between here
 
