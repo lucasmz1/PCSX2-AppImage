@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/PCSX2-AppImage-Enhanced)](https://github.com/pkgforge-dev/PCSX2-AppImage-Enhanced/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://github.com/PCSX2/pcsx2/blob/master/bin/resources/icons/AppIconLarge.png" width="128" />
 </p>
 
 
